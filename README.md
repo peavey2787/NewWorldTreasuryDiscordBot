@@ -8,9 +8,10 @@ If you deposit more than you have to it doesn't carry over to future weeks, it i
 
 # Settings:
 There should already be a settings.json file in the same folder as the .exe, but if not create one with this text:
+
 {
-  "HoursBetweenGeneralNotifications": 24,
-  "HoursBetweenPastDueNotifications": 6,
+  "HoursBetweenGeneralNotifications": 24,  
+  "HoursBetweenPastDueNotifications": 6,  
   "WeeklyResetDay": "Sunday",
   "OwnerDepositRequirement": 1000,
   "ConsulDepositRequirement": 1000,
