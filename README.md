@@ -21,7 +21,12 @@ There should already be a settings.json file in the same folder as the .exe, but
 
 # Commands:
 register @UserToRegister UsersInGameName/UsersInGameRank - Anyone can register anyone, must seperate name and role with /
+
 remove @UserToRemove - Only the owner is able to remove users
+
 deposit AmountToDeposit - Anyone can deposit, even if they haven't registered but it must only be a number; no commas or extras $
+
 verify - Confirm the new balance
+
 update - Must be registered and rank of officer or higher to use. Update balance due to donations in game not reported to discord
+
