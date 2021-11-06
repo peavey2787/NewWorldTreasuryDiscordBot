@@ -1,0 +1,24 @@
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\Discord Bot Csharp.exe
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\Discord Bot Csharp.deps.json
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\Discord Bot Csharp.runtimeconfig.json
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\Discord Bot Csharp.runtimeconfig.dev.json
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\Discord Bot Csharp.dll
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\Discord Bot Csharp.pdb
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\obj\Debug\netcoreapp3.1\Discord Bot Csharp.csproj.AssemblyReference.cache
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\obj\Debug\netcoreapp3.1\Discord Bot Csharp.AssemblyInfoInputs.cache
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\obj\Debug\netcoreapp3.1\Discord Bot Csharp.AssemblyInfo.cs
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\obj\Debug\netcoreapp3.1\Discord Bot Csharp.csproj.CoreCompileInputs.cache
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\obj\Debug\netcoreapp3.1\Discord Bot Csharp.csproj.CopyComplete
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\obj\Debug\netcoreapp3.1\Discord Bot Csharp.dll
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\obj\Debug\netcoreapp3.1\Discord Bot Csharp.pdb
+C:\Users\peave\Downloads\Discord-Bot-Csharp-master\Discord-Bot-Csharp-master\obj\Debug\netcoreapp3.1\Discord Bot Csharp.genruntimeconfig.cache

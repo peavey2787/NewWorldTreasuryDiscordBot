@@ -1,0 +1,10 @@
+{
+  "HoursBetweenGeneralNotifications": 24,
+  "HoursBetweenPastDueNotifications": 4,
+  "WeeklyResetDay": "Tuesday",
+  "OwnerDepositRequirement": 750,
+  "ConsulDepositRequirement": 500,
+  "OfficerDepositRequirement": 300,
+  "SettlerDepositRequirement": 100,
+  "CurrentBalance": 44302
+}

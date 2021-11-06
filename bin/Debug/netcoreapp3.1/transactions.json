@@ -1,0 +1,30 @@
+[
+  {
+    "DiscordId": 262401564361097218,
+    "DepositAmount": 100,
+    "TimeStamp": "2021-10-20T17:13:33.372507-04:00",
+    "RoleAtTimeOfDeposit": "Settler",
+    "RequiredDepositAmountAtTimeOfDeposit": 100
+  },
+  {
+    "DiscordId": 262401564361097218,
+    "DepositAmount": 200,
+    "TimeStamp": "2021-11-02T15:19:36.4127326-04:00",
+    "RoleAtTimeOfDeposit": "Settler",
+    "RequiredDepositAmountAtTimeOfDeposit": 100
+  },
+  {
+    "DiscordId": 235260347139883019,
+    "DepositAmount": 2000,
+    "TimeStamp": "2021-10-22T15:19:36.4127326-04:00",
+    "RoleAtTimeOfDeposit": "Govoner",
+    "RequiredDepositAmountAtTimeOfDeposit": 750
+  },
+  {
+    "DiscordId": 262401564361097218,
+    "DepositAmount": 50,
+    "TimeStamp": "2021-11-02T15:57:14.8124704-04:00",
+    "RoleAtTimeOfDeposit": "Settler",
+    "RequiredDepositAmountAtTimeOfDeposit": 100
+  }
+]
