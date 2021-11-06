@@ -31,4 +31,3 @@ verify - Confirm the new balance
 
 update - Must be registered and rank of officer or higher to use. Update balance due to donations in game not reported to discord
 
-
