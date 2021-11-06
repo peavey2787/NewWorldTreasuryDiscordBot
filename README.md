@@ -1,26 +1,34 @@
-# 💎 Discord Bot C# 
-This is the source code I made based on my Discord bot called [Konek0](https://konek0.nl/). You can use this source to easily get started with making a Discord bot in C#. Crediting me isn't necessary, but will definitely be appreciated. Have fun!  
+# New World Treasury Discord Bot in C# 
 
-![Discord](https://i.imgur.com/JpbYChQ.png)
-## Requirements  
-* [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/)
-* [Discord.Net](https://www.nuget.org/packages/Discord.Net/)
-* [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/)
-* [Microsoft DI Extension](https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/3.1.3)
-* 4 braincells  
+The bot needs to be told to start anytime the application is closed and reopened. Just type @NewWorldTreasury start in your treasury-channel.
+The bot doesn't need to be told to start to accept donations or for registrations, only to check general/past due notifications.
+It is very important that the application is running when it sends out its notifications at the time set in settings.
+Each week will reset the amount each clan member has to pay.
+If you deposit more than you have to it doesn't carry over to future weeks, it is considered a donation.
 
-#  How to set up
-1. Go to the [Discord Developer Portal](https://discordapp.com/developers/) and create a new application.  
-2. Go to the Bot section, build a bot and copy the bot token.  
-3. Open the *Config.json* file and replace "BOT_TOKEN_HERE" with your bot token. Simply run the project and your bot should now connect!
+# Settings:
+There should already be a settings.json file in the same folder as the .exe, but if not create one with this text:
 
-##  This source code contains  
-* A sample of fun commands
-* A sample of utility commands
-* A sample of moderator commands
-* A *Config.json* file to customize some settings like: prefix, welcome message and playing status  
+{
+  "HoursBetweenGeneralNotifications": 24,  
+  "HoursBetweenPastDueNotifications": 6,  
+  "WeeklyResetDay": "Sunday",
+  "OwnerDepositRequirement": 1000,
+  "ConsulDepositRequirement": 1000,
+  "OfficerDepositRequirement": 750,
+  "SettlerDepositRequirement": 100,
+  "CurrentBalance": 34460
+}
 
-## Need help?  
-To ask any questions or leave a comment about anything, please join [my Discord server](https://discord.gg/xJ2HRxZ).  
+# Commands:
+register @UserToRegister UsersInGameName/UsersInGameRank - Anyone can register anyone, must seperate name and role with /
 
-![Kanna](https://media.giphy.com/media/cgEP4Iee5gvks/giphy.gif)
+remove @UserToRemove - Only the owner is able to remove users
+
+deposit AmountToDeposit - Anyone can deposit, even if they haven't registered but it must only be a number; no commas or extras $
+
+verify - Confirm the new balance
+
+update - Must be registered and rank of officer or higher to use. Update balance due to donations in game not reported to discord
+
+
