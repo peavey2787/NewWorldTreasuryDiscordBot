@@ -12,7 +12,7 @@ Go to discord developer portal to create a bot and copy the token. Create a new 
 "version": "1.0",
   "token": "YOURBOTTOKENHERE",
   "prefixes": [ "." ],
-  "join_message": "Hello, I'm the New World Treasury Discord Bot! :heart:",
+  "join_message": "Hello, I'm the New World Treasury Discord Bot!",
   "currently": "playing|listening|watching|streaming",
   "playing_status": "Book Keeper",
   "status": "online|dnd|idle|offline"
