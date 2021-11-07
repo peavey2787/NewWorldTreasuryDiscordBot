@@ -9,14 +9,14 @@ If you deposit more than you have to it doesn't carry over to future weeks, it i
 # Setup:
 Go to discord developer portal to create a bot and copy the token. Create a new file named config.json and paste this text placing your bot token in the specified spot:
 {
-  "version": "1.0",
+"version": "1.0",
   "token": "YOURBOTTOKENHERE",
   "prefixes": [ "." ],
   "join_message": "Hello, I'm the New World Treasury Discord Bot! :heart:",
   "currently": "playing|listening|watching|streaming",
   "playing_status": "Book Keeper",
   "status": "online|dnd|idle|offline"
-}
+  }
 
 # Settings:
 There should already be a settings.json file in the same folder as the .exe, but if not create one with this text:
